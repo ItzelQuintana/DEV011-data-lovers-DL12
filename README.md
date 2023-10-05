@@ -15,6 +15,14 @@
 
 ***
 
+
+
+
+![Vista principal](https://github.com/ItzelQuintana/DEV011-data-lovers-DL12/assets/142268037/38b96b26-29e3-4a09-8dca-5b72640215b8)
+
+
+
+
 ## 1. Preámbulo
 
 Según [Forbes](https://www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-stats-everyone-should-read),
