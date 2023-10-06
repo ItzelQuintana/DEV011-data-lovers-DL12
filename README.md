@@ -18,16 +18,22 @@ La aplicación busca brindar una herramienta que permita expandir la comunidad d
 
 En ese sentido, el enfoque específico abordado en el trabajo es:
 
-![Historias de Usuaria Totales](https://github.com/ItzelQuintana/DEV011-data-lovers-DL12/assets/142268037/8d707983-902d-4826-90e0-ab0213301bb0) ![Contenido de historia](https://github.com/ItzelQuintana/DEV011-data-lovers-DL12/assets/142268037/be94596e-8758-4890-835e-2b760f74284c)
+![historias de usuaria](https://github.com/Carolinava21/DEV011-data-lovers-DL12/assets/142191821/29040a1a-d4a1-4ae0-8502-b5300ac5fb05)
 
 ## 3. Diseño de baja Fidelidad
 
-![image](https://github.com/Carolinava21/DEV011-data-lovers-DL12/assets/142191821/de3b6406-7fe7-48d5-810e-47246155a561)
-![image](https://github.com/Carolinava21/DEV011-data-lovers-DL12/assets/142191821/606630f7-45cf-4b4e-acd0-6f90a92d9cb2)
+![diseño](https://github.com/Carolinava21/DEV011-data-lovers-DL12/assets/142191821/596a97d8-748f-4d1d-8ba6-7708e2f6dcf1)
 
 ## 4. Diseño de alta Fidelidad
 
 ![image](https://github.com/Carolinava21/DEV011-data-lovers-DL12/assets/142191821/5d41d0b4-e871-410f-9235-cbcea4f27998)
 
 ## 5. Testeos de usabilidad
+La efectividad de las funciones dentro de la aplicación ha sido analizada a través de pruebas unitarias creadas específicamente:
+- [ ] **Describe** ("funciónOrdenarASC") => **it** ("Ordenar las tarjetas por los años de publicación de manera ascendente")
+- [ ] **Describe** ("funciónOrdenarDESC") => **it** ("Ordenar las tarjetas por los años de publicación de manera descendente")
+- [ ] **Describe** ("funciónFiltrar") => **it** ("Filtar las tarjetas por el nombre de los directores")
+- [ ] **Describe** ("funciónEstadística") => **it** ("Calcular el % de películas realizadas por cada director")
+- [ ] **Describe** ("funciónEstadísticaFALSE") => **it** ("No Calcula si no encuentra el nombre del director proporcionado")
+      
 ![image](https://github.com/Carolinava21/DEV011-data-lovers-DL12/assets/142191821/f12d560d-3432-4217-9f85-0070412ee5f3)
